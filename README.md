@@ -1,4 +1,9 @@
-publishing site requirements:
+Blog 0.0.1
+==========
+
+
+Planned Features
+----------------
 easy disqus comments
 easy google analytics tagging
 easy google ads
