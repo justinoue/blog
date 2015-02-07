@@ -1,6 +1,10 @@
-Blog 0.0.1
-==========
+#Blog 0.0.1
+This is a blog. It is very much a work in progres. It is born from being tired of Wordpress.
 
+##Key Points
+*
+*
+*
 
 Planned Features
 ----------------
