@@ -1,40 +1,43 @@
 #Blog 0.0.1
 This is a blog. It is very much a work in progres. It is born from being tired of Wordpress.
 
-##Key Points
-*
-*
-*
+##Objective
+* Easy to move (no absolute urls in database)
+* Easy to initialize
+* Easy to customize
+* Hard to break
+* Includes the majority of features a major publishing CMS would require out of the box
 
-Planned Features
-----------------
-easy disqus comments
-easy google analytics tagging
-easy google ads
-responsive, basic theme
+##Planned Basic Features
+* Posts
+* Pages
+* Podcasts
+* Uploads
+* RSS Feeds
+* Galleries
+* Indexes
+* Search
+* Featured Content
+* Index Curation
+* Scheduled Content
+* Revision History
+* Markup based content
+* Users
+* Stateless Application
 
-html blocks in content, but disallow html for content normally.
+##Planned 'out of the box' Features
+* Disqus
+* Google Analytics
+* Google Ads
+* SEO Tools
+* S3 Hosted Media
+* CDN Support
+* Social Buttons
+* Social Media Feed Integration
+* Social Media updates
 
-upload images to s3
-
-
-posts
-pages
-indexes
-curated home page
-featured posts
-auto featured posts
-social buttons
-rss feed
-podcasts
-galleries
-site preferences/settings
-image uploads, referenced in posts by object not url
-users
-
-
-
-advanced features:
-wordpress import
-api
-single sign-on
+##Planned Advanced Features
+* Import from Wordpress
+* Developer API
+* SSO (SAML, JWT, OAuth)
+* Page Caching
