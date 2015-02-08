@@ -24,6 +24,11 @@ This is a blog. It is very much a work in progres. It is born from being tired o
 * Markup based content
 * Users
 * Stateless Application
+* Self Account Recovery
+* Newsletter
+* Polls
+* Permalinks
+* Taxonomies
 
 ##Planned 'out of the box' Features
 * Disqus
@@ -41,3 +46,4 @@ This is a blog. It is very much a work in progres. It is born from being tired o
 * Developer API
 * SSO (SAML, JWT, OAuth)
 * Page Caching
+* Built in A-B Testing

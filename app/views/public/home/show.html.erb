@@ -1,0 +1,10 @@
+<% title 'Welcome to Blog' %>
+<ul>
+<% @posts.each do |post| %>
+  <li>
+      <h3><%= post.title %></h3>
+      <h4>By <%= post.user.settings.first_name %></h4>
+      <p><%= post.contents %></p>
+  </li>
+<% end %>
+</ul>

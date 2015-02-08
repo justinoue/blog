@@ -9,6 +9,8 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bcrypt', '~> 3.1.7'
 gem 'paperclip'
+gem 'awesome_print'
+gem 'meta-tags', :require => 'meta_tags'
 
 group :development, :test do
   gem 'sqlite3'

@@ -1,4 +1,14 @@
 Rails.application.routes.draw do
+  namespace :admin do
+    
+  end
+
+  namespace :public do
+    
+  end
+
+  root to: 'public/home#show'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
